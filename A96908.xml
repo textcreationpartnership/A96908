@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three letters intercepted by Sir Tho: Fairfax in Cornvval. The first, from the E: of Glamorgan to His Majesty; the second, from the Lord George Digby to his lady, the third, to his servant Walsingham; concerning their proceedings in Ireland. Sent by Mr. Peters to the Honorable House of Commons, and read in the said House. Ordered by the Commons assembled in Parliament, that these letters be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96908</idno><idno type="EEBO-CITATION">99861374</idno>
+  <idno type="VID">159614</idno>
+  <idno type="EEBO-PROQUEST">2240896452</idno>
+  
+            <idno type="STC">Wing W3534</idno>
+            <idno type="STC">Thomason E329_12</idno>
+            <idno type="STC">ESTC R200699</idno>
+            <idno type="PROQUEST">99861374</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861374e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159614)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E329[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three letters intercepted by Sir Tho: Fairfax in Cornvval. The first, from the E: of Glamorgan to His Majesty; the second, from the Lord George Digby to his lady, the third, to his servant Walsingham; concerning their proceedings in Ireland. Sent by Mr. Peters to the Honorable House of Commons, and read in the said House. Ordered by the Commons assembled in Parliament, that these letters be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Worcester, Edward Somerset, Marquis of, 1601-1667.</author>
+                  <author>Bristol, George Digby, Earl of, 1612-1677.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>March 26. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Worcester, Edward Somerset, --  Marquis of, 1601-1667 --  Early works to 1800.</term>
+               <term type="personal_name">Bristol, George Digby, --  Earl of, 1612-1677 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:159614:1"/>
+            <head>Die Mercurii 25 Martii. 1646.</head>
+            <div type="part">
+               <p>ORdered by the <hi>Commons</hi> assembled in Parlia<g ref="char:EOLhyphen"/>ment, That Mr. <hi>Hollis,</hi> and Sir <hi>Peter Went<g ref="char:EOLhyphen"/>worth,</hi> do from this House give Thanks to Mr. <hi>Bolton,</hi> and Mr. <hi>Cheynell,</hi> for the great Pains they took in the Sermons they Preached this day at the intreatie of this House at St. <hi>Margarets</hi> Westminster, (it being the day of Publick Humiliation) And to desire them to Print their Sermons. And it is Ordered that none shall presume to Print their Sermons without License under their hand<g ref="char:EOLhyphen"/>writing.</p>
+               <closer>
+                  <signed>H. Elsynge. Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>I Appoint</hi> Samuel Gellibrand <hi>to Print this Sermon.</hi>
+               </p>
+               <closer>
+                  <signed>Francis Cheynell.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:159614:1"/>
+            <p> THREE LETTERS Intercepted by Sir <hi>Tho: Fairfax</hi> IN CORNVVAL.</p>
+            <p>The first, from The E: of <hi>Glamorgan</hi> to His Majesty; The second, from The Lord <hi>George Digby</hi> to his Lady, The third.</p>
+            <p>To his Servant <hi>Walsingham;</hi> Concerning Their Proceedings in IRELAND.</p>
+            <p>Sent by Mr. <hi>PETERS</hi> to the Honorable House of Commons, and read in the said House.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered by the</hi> Commons <hi>assembled in Parliament, That these</hi> Letters <hi>be forthwith printed and published:</hi>
+                        </p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable House of Commons. March 26. 1646.</p>
+            <pb facs="tcp:159614:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:159614:2"/>
+            <head>For His Sacred Majestie.</head>
+            <opener>
+               <salute>May it please Your Majestie,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am now at <hi>Waterford,</hi> providing shiping immediatly to transport 6000. Foot, and 4000 more are by <hi>May</hi> to follow them: I hope these will yet come opportunely to the relief of <hi>Chester;</hi> what hath been the occasions of so long delayes, and yet suffers not Your Majesties service herein to proceed with that advantage it might do, I conceive not so fit to commit to Paper; but I shortly send my Brother, who shall shortly inform Your Majestie with all parti<g ref="char:EOLhyphen"/>culars, and thereby rectifie Your Opinion, and give you true knowledge who are Your faithful Servants. I hope long ere this Captain <hi>Bacon</hi> hath arrived with You since my enlargement, and therefore I need onely tell Your Majestie, That my further services intended for You, will I hope now without further crosses be suffer<g ref="char:EOLhyphen"/>ed to go on, though strange is the Industry used by ma<g ref="char:EOLhyphen"/>ny seeming Friends to hinder me therein, but I am con<g ref="char:EOLhyphen"/>fident it shall not lye in their power, Your Majestie re<g ref="char:EOLhyphen"/>maining still constant (as I doubt not but You will) to Your favourable Opinion and right Interpretation of my poor Endeavours; which, if they may take place, will procure You to be a glorious and happy Prince, I having no other ends, then to approve my self,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Sacred Majesties most dutiful obedient Subject, and passionately devoted Servant, GLAMORGAN.</signed>
+               <dateline>Waterford, <date>Febr. 23. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:159614:3"/>
+            <head>
+               <hi>The Lord</hi> Digby<hi>'s Letter to his Lady.</hi>
+            </head>
+            <opener>
+               <salute>My dear heart,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Letter by Mr. <hi>Moor</hi> hath eased me of a great deal of care that I have been in ever since I left the King, since I never heard from you, nor of you till now: And knowing you to be at the time of my coming away in such condition, wherein misappre<g ref="char:EOLhyphen"/>hensions of grief might be of much danger to you; you will easily imagine my disquiet. God be praised for your safe delivery, and my Blessing upon my new Baby and the rest; onely I take it very ill that you write nothing of them. I sent you formerly directions (if it were possible) to get my Son safe over hither, whence I will send him over into <hi>France;</hi> and I persist in the same desire, if either you can pro<g ref="char:EOLhyphen"/>cure him a Pass, or that he may otherwise be sent with any safety. As for my return to the King, which you and all my Friends presse so earnestly, That shall be whenever I think I may be useful to His Service there then else<g ref="char:EOLhyphen"/>where. As for my own interest, I have recei<g ref="char:EOLhyphen"/>ved from the King even now by Mr. <hi>Moor,</hi> too great testimonies of His constancy for me to
+<pb n="5" facs="tcp:159614:3"/> distrust the power of my malicious Enemies should by my absence prevail to my prejudice with Him. And I cannot but very much won<g ref="char:EOLhyphen"/>der, how it is possible to be so blinded with kindnesse to me, as not to see, how destructive it must be to me and to His Majesties Service, for me to return at this time without an Army to make me useful <seg rend="sup">there</seg>
+               <seg rend="below">450.</seg> Is he in such a condition, as that you can hope my councels should rescue Him from the misery that threatens Him, without any matter to work upon? Were it not a madnesse in me to presse through those disgraces in my way, and disgraces when I come there, to take upon me the blame and im<g ref="char:EOLhyphen"/>putation of those misfortunes, which the weaknesse and treachery of others is likely to bring upon Him? Surely, whilest His condi<g ref="char:EOLhyphen"/>tion is such, you ought to think it the greatest blessing that ever befell me, That I have so fair a pretence to absent my self. If the King should fail in firmnesse towards me, the losse would be His in His Honour, and not mine in way of interest: for is it not evident, that in the condition he now tends unto, His favour is likely to be most fatal to them that are neer<g ref="char:EOLhyphen"/>est Him, unlesse they comply with indirect ends, which I can never do? And lastly, Sweet<g ref="char:EOLhyphen"/>heart,
+<pb n="6" facs="tcp:159614:4"/> whilest the Princes and <hi>
+                  <seg rend="sup">Glemham</seg>
+               </hi>
+               <seg rend="below">286.</seg> are with the King, it is impossible for me to come there, without making such combustion as must o<g ref="char:EOLhyphen"/>ver whelm all His Majesties affairs by the dis<g ref="char:EOLhyphen"/>order of it: And over and above all, the fore<g ref="char:EOLhyphen"/>mentioned disgraces make my unseasonable impatience, to suffer my Enemies near Him, appear the cause of all His misery; besides that, although I am most assured, that the Kings Justice and kindnesse will never fail me upon the private score; who, if His Nephews should make the quarrel personal (as doubtlesse they will, if I come thither whilest they are there) I could not expect, nor would it profit the King to take my party against them: Where<g ref="char:EOLhyphen"/>fore, my dear Soul, have patience a while; if God have decreed His Majesties ruine, I will ruine with Him too; but not hasten His ru<g ref="char:EOLhyphen"/>ine by my unseasonable intrusion upon His business there. If it please God to preserve Him, I make no question but he will keep Him just to me, and you will see my Enemies ruine one another faster then I could effect it if I were there: And if not, I make no question but by Gods blessing I shall ere long appear in <hi>England</hi> with so considerable a power to serve Him, as shall make my Enemies strike sail. I make no
+<pb n="7" facs="tcp:159614:4"/> question but these reasons will convince both yours and the rest of my Friends judgements. However, if you persist in the opinion for my return, in case you send me word that the Princes are gone away, with whom, believe it, there is no personal contending, I shall obey the importunity of my friends, rather then my own reason. In the mean while, if the Princes be received and remain with the King, it will not be amisse to give out some good while af<g ref="char:EOLhyphen"/>ter this Dispatch, That I am already in <hi>England</hi> in disguise, and will be such a day at <hi>Oxford,</hi> to try how it will work: But in case you re<g ref="char:EOLhyphen"/>solve to do so, be sure to acquaint no body li<g ref="char:EOLhyphen"/>ving, but him that discifers this Letter, with the dissimulation: But let my neerest Friends believe that I will most certainly be there such a day; and by that you will clearly discover what effect my real coming would have: But if the Princes be gone, then try no tricks I conjure you.</p>
+            <closer>
+               <dateline>
+                  <hi>Dublin,</hi>
+                  <date>19 <hi>Jan.</hi> 164<seg rend="sub">5</seg>.<seg rend="sup">6.</seg>
+                  </date>
+               </dateline>
+               <signed>Digby.</signed>
+            </closer>
+            <postscript>
+               <p>Continue your kinde applications to the Treasurer; for however he may play the Vul<g ref="char:EOLhyphen"/>pone with my Enemies, <hi>&amp;c. &amp;c.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:159614:5"/>
+            <head>The Lord <hi>Digby</hi>'s Letter to his Servant <hi>Walsingham.</hi>
+            </head>
+            <opener>
+               <salute>Walsingham,</salute>
+            </opener>
+            <p>DEliver the inclosed unsuperscribed unto the Noble person to whom I have former<g ref="char:EOLhyphen"/>ly addrest them. I must not conclude without telling you, That I believe the accident here of my Lord <hi>Glamorgan</hi> and my party in his pro<g ref="char:EOLhyphen"/>secution, will at first have allayed me much <seg rend="sup">with</seg>
+               <seg rend="sup">your</seg>
+               <seg rend="sup">friends</seg>
+               <seg rend="below">83. 76. 29. 41. 310. 10.</seg>
+               <hi>the</hi>
+               <seg rend="sup">Babylonians</seg>
+               <seg rend="below">24. 14. 22. 39. 55. 40. 20. 16. 22. 50. 10. 23.</seg> But when matters shall be rightly understood, you may assure them, That if His Majesties service had not obliged me to it, yet in relation to their preservation, I ought to have done it, and with<g ref="char:EOLhyphen"/>out it, it would have been impossible either for the King to favour them, or me to serve them, so far as a good and firm Protestant may do, within which bounds, they contributing roundly &amp; heartily to my Masters service, shal very boldly appear in the procuring them all just favours, both here and in <hi>England.</hi> As for the Peace of this Kingdom, I make no questi<g ref="char:EOLhyphen"/>on but shall suddenly be brought to a happy conclusion; and my Lord <hi>Glamorgan</hi> not dis<g ref="char:EOLhyphen"/>abled by any thing, that is done, to serve the King in what he hath means to do.</p>
+            <closer>
+               <dateline>
+                  <hi>Dublin,</hi>
+                  <date>17 <hi>Jan.</hi>
+                  </date>
+               </dateline>
+               <signed>Digby.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
